@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+   'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+   sans-serif;
+ -webkit-font-smoothing: antialiased;
+ -moz-osx-font-smoothing: grayscale; 
+  /* background-image: url('https://media.istockphoto.com/photos/hand-arranging-wood-block-stacking-as-step-stair-on-paper-pink-picture-id1169974807');  */
+background-color: gainsboro;
+
+  
+   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+
+ /* background-color:whitesmoke; */
+}
